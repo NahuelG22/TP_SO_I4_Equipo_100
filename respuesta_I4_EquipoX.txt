@@ -1,0 +1,10 @@
+Pazos Nahuel Rodrigo - Iannello Santiago - Gimenez Nahuel
+
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+Yellow.
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+Yellow.
+C- ¿Qué color de fondo tiene su página en el MASTER?
+Yellow.
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+El de BETA ya que fue el ultima en hacer el push.
