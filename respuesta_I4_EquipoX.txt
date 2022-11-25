@@ -8,3 +8,20 @@ C- ¿Qué color de fondo tiene su página en el MASTER?
 Yellow.
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 El de BETA ya que fue el ultima en hacer el push.
+E- ¿Algún integrante tuvo problemas al hacer el push?
+Si, Beta y Gamma.
+F- ¿Qué problemas surgieron?
+Habia archivos que no se habian actualizado.
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+git fetch
+git add . 
+git commit 
+git push -u origin Branch
+Tuvo como consecuencia que los conflictos del archivo se solucionen y se pueda subir sin problemas.
+H- ¿Qué sucede si cada uno utiliza el push -f?
+No lo utilizamos, pero por lo que pudimos investigar es una subida forzada del push.
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+git checkout DESARROLLO
+git merge
